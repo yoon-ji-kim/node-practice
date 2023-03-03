@@ -1,5 +1,5 @@
 {
-  "name": "helloweb-ex01",
+  "name": "project-ex01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "connect": "^3.7.0",
-    "connect-route": "^0.1.5",
-    "serve-static": "^1.15.0"
+  "devDependencies": {
+    "nodemon": "^2.0.21"
   }
 }
